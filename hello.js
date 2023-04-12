@@ -1,10 +1,5 @@
-function hello(){
-    return(
-        // Add your solution here!
-        <>
-        Hello
-        </>
-    )
+function hello(str) {
+    returnreturn `Hello, ${str}!`;
 };
 
 module.exports = hello;
