@@ -1,8 +1,9 @@
-function hello(str) {
+function hello(){
     return(
-
         // Add your solution here!
-        <>Hello</>
+        <>
+        Hello
+        </>
     )
 };
 
